@@ -1,9 +1,4 @@
-### 👋 Hi, I’m @Karthik-Billava
-- 👀 I’m interested in **full-stack development**.
-- 🌱 I’m currently learning advanced **Python programming**.
-- 💞️ I’m looking to collaborate on **open-source projects** related to **web development**  
-- 📫 How to reach me: karthikbillava1107@gmail.com  
-- 😄 Pronouns: He/Him  
+dead!
 
 <!---
 Karthik-Billava/Karthik-Billava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
